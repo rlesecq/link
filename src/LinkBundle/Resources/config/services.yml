@@ -1,0 +1,4 @@
+services:
+#    link.example:
+#        class: LinkBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
